@@ -55,4 +55,4 @@ public class fcfs {
 
         sc.close();
     }
-}
+}/// fcfs code done successfully
