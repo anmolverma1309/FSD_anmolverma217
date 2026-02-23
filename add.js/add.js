@@ -85,3 +85,4 @@
 // } else {
 //     console.log("Invalid choice.");
 // }
+// ques should be in the form of function and should be called in the end of the code.
